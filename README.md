@@ -1,7 +1,7 @@
 # Basic-Technical-ML-Cloud
 Basic Operations code for ML, LLMs, Cloud, CI/CD, Scaling, and etcetera
 
-##This is a Repositiry with basic operations code that can easily be copied/pasted in projects for moving fordward fast
+This is a Repositiry with basic operations code that can easily be copied/pasted in projects for moving fordward fast
 ## The goal is to keep this code updated with changes from vendors to all research can be reused
 ## The code found here, in general is for:
 
