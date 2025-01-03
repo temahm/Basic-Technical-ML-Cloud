@@ -6,7 +6,7 @@ This is a Repositiry with basic operations code that can easily be copied/pasted
 ## The code found here, in general is for:
 
 * ML (supervised, unsupervised, reinforcement learning, and its different strategies/algorithms)
-* LLMs (ChatGPT, LangChain, Graph, Prompt Engineering, etcetera)
+* LLMs ([ChatGPT](https://github.com/temahm/Basic-Technical-ML-Cloud/blob/9ffe3a61e31185d09a89f82428badd076890b72b/SimpleChatGPTCall.py), LangChain, Graph, Prompt Engineering, etcetera)
 * APIs (some common and useful APIs for Vendirs, Databases, Data Warehouses, Data providers, and Etcetera)  
 * Cloud (Process Automation, Containerization, Etcetera)
 * CI/CD (Process Automation)
